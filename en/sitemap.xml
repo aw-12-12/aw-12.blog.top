@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aw-12-12.github.io/aw-12.blog.top/en/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -15,21 +14,7 @@
                 href="https://aw-12-12.github.io/aw-12.blog.top/en/categories/"
                 />
   </url><url>
-    <loc>https://aw-12-12.github.io/aw-12.blog.top/en/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://aw-12-12.github.io/aw-12.blog.top/p/test-chinese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aw-12-12.github.io/aw-12.blog.top/en/p/test-chinese/"
-                />
-  </url><url>
     <loc>https://aw-12-12.github.io/aw-12.blog.top/en/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -39,45 +24,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aw-12-12.github.io/aw-12.blog.top/en/"
-                />
-  </url><url>
-    <loc>https://aw-12-12.github.io/aw-12.blog.top/en/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://aw-12-12.github.io/aw-12.blog.top/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aw-12-12.github.io/aw-12.blog.top/en/post/"
-                />
-  </url><url>
-    <loc>https://aw-12-12.github.io/aw-12.blog.top/en/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://aw-12-12.github.io/aw-12.blog.top/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aw-12-12.github.io/aw-12.blog.top/en/categories/test/"
-                />
-  </url><url>
-    <loc>https://aw-12-12.github.io/aw-12.blog.top/en/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://aw-12-12.github.io/aw-12.blog.top/categories/%E6%B5%8B%E8%AF%95/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aw-12-12.github.io/aw-12.blog.top/en/categories/%E6%B5%8B%E8%AF%95/"
                 />
   </url><url>
     <loc>https://aw-12-12.github.io/aw-12.blog.top/en/tags/</loc>
