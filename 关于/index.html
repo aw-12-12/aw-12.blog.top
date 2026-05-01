@@ -360,8 +360,8 @@ unicode: "f6d2"
      
     
         
-    <script src='//unpkg.com/@waline/client@v3/dist/waline.js'></script>
-<link href='//unpkg.com/@waline/client@v3/dist/waline.css' rel='stylesheet'/>
+    <script src='//unpkg.com/@waline/client@v2/dist/waline.js'></script>
+<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet'/>
 <div id="waline" class="waline-container"></div>
 <style>
     .waline-container {
@@ -369,7 +369,7 @@ unicode: "f6d2"
         border-radius: var(--card-border-radius);
         box-shadow: var(--shadow-l1);
         padding: var(--card-padding);
-        margin-top: 30px;
+        --waline-font-size: var(--article-font-size);
     }
     .waline-container .wl-count {
         color: var(--card-text-color-main);
