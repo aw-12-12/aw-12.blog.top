@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://aw-12-12.github.io/aw-12.blog.top/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2026-05-01T12:53:05+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://aw-12-12.github.io/aw-12.blog.top/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/</loc>
+    <lastmod>2026-05-01T12:53:05+08:00</lastmod>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/p/hello/</loc>
+    <lastmod>2026-05-01T12:53:05+08:00</lastmod>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/post/</loc>
+    <lastmod>2026-05-01T12:53:05+08:00</lastmod>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/categories/</loc>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/tags/</loc>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/categories/test/</loc>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/%E5%85%B3%E4%BA%8E/</loc>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/search/</loc>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+  </url>
+</urlset>
