@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aw-12-12.github.io/aw-12.blog.top/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-01T12:53:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,12 @@
                 hreflang="zh-cn"
                 href="https://aw-12-12.github.io/aw-12.blog.top/"
                 />
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/p/hello/</loc>
+    <lastmod>2026-05-01T12:53:05+08:00</lastmod>
+  </url><url>
+    <loc>https://aw-12-12.github.io/aw-12.blog.top/post/</loc>
+    <lastmod>2026-05-01T12:53:05+08:00</lastmod>
   </url><url>
     <loc>https://aw-12-12.github.io/aw-12.blog.top/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
